@@ -1,0 +1,2 @@
+# exercicios
+Logica em programação
